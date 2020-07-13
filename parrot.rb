@@ -1,1 +1,1 @@
-def 
+def parrot (string= Squawk!)
